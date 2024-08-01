@@ -1,3 +1,4 @@
 node_modules
 notes-api-keypair.pem
 *.env
+src/api/uploads/file
